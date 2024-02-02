@@ -5,3 +5,6 @@ https://aakibkhan1.medium.com/project-4-deploy-netflix-clone-on-kubernetes-9ae60
 
 ##sample devscops
 https://blog.devops.dev/end-to-end-devsecops-kubernetes-project-4259f90722ef
+
+#sample project :- Deployment of Amazon clone app using Terraform and jenkins ci-cd
+https://aakibkhan1.medium.com/project-7-deployment-of-amazon-clone-app-using-terraform-and-jenkins-ci-cd-32483787ea67
