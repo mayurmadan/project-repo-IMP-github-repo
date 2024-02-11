@@ -8,3 +8,7 @@ https://blog.devops.dev/end-to-end-devsecops-kubernetes-project-4259f90722ef
 
 #sample project :- Deployment of Amazon clone app using Terraform and jenkins ci-cd
 https://aakibkhan1.medium.com/project-7-deployment-of-amazon-clone-app-using-terraform-and-jenkins-ci-cd-32483787ea67
+
+
+##FOR abhishek veeramalla github page
+https://github.com/iam-veeramalla
