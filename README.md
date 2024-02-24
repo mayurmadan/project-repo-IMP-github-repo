@@ -12,3 +12,6 @@ https://aakibkhan1.medium.com/project-7-deployment-of-amazon-clone-app-using-ter
 
 ##FOR abhishek veeramalla github page
 https://github.com/iam-veeramalla
+
+##3 tier
+https://github.com/knaopel/docker-frontend-backend-db/tree/master
