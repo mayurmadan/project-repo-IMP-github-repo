@@ -18,6 +18,9 @@ https://github.com/iam-veeramalla
 ##3 tier
 https://github.com/knaopel/docker-frontend-backend-db/tree/master
 
+##jenkins with ECS fargate
+https://github.com/allcloud-io/jenkins-pipeline-tutorial/tree/master
+
 #################################################################################################################################################################################
 #Ansible 
 https://github.com/becloudready/ansible-tutorials.git
