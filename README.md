@@ -26,3 +26,8 @@ https://github.com/allcloud-io/jenkins-pipeline-tutorial/tree/master
 https://github.com/becloudready/ansible-tutorials.git
 
 https://github.com/Addvilz/dots.git
+
+
+
+###TERRAFORM PROJECT###
+https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31
