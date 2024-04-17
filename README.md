@@ -31,3 +31,8 @@ https://github.com/Addvilz/dots.git
 
 ###TERRAFORM PROJECT###
 https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31
+
+
+
+####################OPEN AI project###############################
+https://github.com/openai/openai-quickstart-python
