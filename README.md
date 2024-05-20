@@ -18,6 +18,10 @@ https://github.com/iam-veeramalla
 ##3 tier
 https://github.com/knaopel/docker-frontend-backend-db/tree/master
 
+#3 tier for k8s with 8 microservices
+https://github.com/iam-veeramalla/three-tier-architecture-demo
+
+
 ##jenkins with ECS fargate
 https://github.com/allcloud-io/jenkins-pipeline-tutorial/tree/master
 
