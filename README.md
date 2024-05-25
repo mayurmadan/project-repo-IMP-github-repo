@@ -25,6 +25,9 @@ https://github.com/iam-veeramalla/three-tier-architecture-demo
 ##jenkins with ECS fargate
 https://github.com/allcloud-io/jenkins-pipeline-tutorial/tree/master
 
+##k8s microservice repo
+https://github.com/Shubham-Stunner/Microservice/tree/adservice
+
 #################################################################################################################################################################################
 #Ansible 
 https://github.com/becloudready/ansible-tutorials.git
