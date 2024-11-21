@@ -43,3 +43,6 @@ https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraf
 
 ####################OPEN AI project###############################
 https://github.com/openai/openai-quickstart-python
+
+**#Generative-AI-Roadmap**
+https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/tree/main
