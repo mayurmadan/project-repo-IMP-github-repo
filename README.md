@@ -40,8 +40,13 @@ https://github.com/orgs/GoogleCloudPlatform/repositories
 ### microservice demo with GKE
 https://github.com/GoogleCloudPlatform/microservices-demo
 
+## AWS project repo
+https://github.com/aws-samples
+
 ## OPEN AI project
 https://github.com/openai/openai-quickstart-python
 
 **#Generative-AI-Roadmap**
 https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/tree/main
+
+
