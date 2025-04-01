@@ -46,6 +46,10 @@ https://github.com/aws-samples
 ## OPEN AI project
 https://github.com/openai/openai-quickstart-python
 
+# web link
+#openseource tools
+https://towardsaws.com/opensource-projects-for-heavy-lifting-tasks-13959bf60cb0
+
 **#Generative-AI-Roadmap**
 https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/tree/main
 
